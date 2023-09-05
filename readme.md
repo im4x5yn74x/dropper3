@@ -82,7 +82,7 @@ chips: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically
 
 “Is this really the end?”
 
-- Yes, this is the end for Dropper rewrites and language developments. I had initially used this project as an intermediate form of <i>Hello World</i> for malware developers, and I highly recommend anyone out there reading this to follow the same principal. Take an idea for some really cool malware/innocent program you’d like to create, then pick a language you’ve never used before and learn it! Learn that language to build the program you want to see come to life in the language you want to see it written in. I promise you, you’ll learn way more than you ever thought you would, and you’ll become a better programmer because of it.
+- Yes, this is the end for Dropper rewrites and language developments. I had initially used this project as an intermediate form of <i>Hello World</i> for malware developers, and I highly recommend anyone out there reading this to follow the same principal. Take an idea for some really cool malware/innocent program you’d like to create, then pick a language you’ve never used before and learn it! Learn that language to build the program you want to see come to life in the language you want to see it written in. I promise you, you’ll learn way more than you ever thought you would, and you’ll become a better developer because of it.
 
 “How about that disclaimer?”
 
