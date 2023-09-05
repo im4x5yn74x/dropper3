@@ -12,7 +12,7 @@ I decided to take a step back and focus on what other malware authors (good and 
 
 So, with the back story out of the way, may I present: Dropper 3.0 (BCE).
 
-## Dependancies
+## Dependencies
 
 Given the fact we're using C, you're gonna need every type of compiler used by Dropper3 to build each type of binary payload. Run the following command to install the necessary compilers and build libraries:
 <code>sudo apt install gcc make gcc-mingw-w64 binutils-mingw-w64 gcc-mingw-w64-i686 binutils-mingw-w64-i686 gcc-mingw-w64-x86-64 binutils-mingw-w64-x86-64 gcc-x86-64-linux-gnux32 binutils-x86-64-linux-gnu gcc-sparc64-linux-gnu binutils-sparc64-linux-gnu gcc-riscv64-linux-gnu binutils-riscv64-linux-gnu gcc-powerpc-linux-gnu binutils-powerpc-linux-gnu gcc-powerpc64-linux-gnu binutils-powerpc64-linux-gnu gcc-mips-linux-gnu binutils-mips-linux-gnu gcc-mips64-linux-gnuabi64 binutils-mips64-linux-gnuabi64 gcc-i686-linux-gnu binutils-i686-linux-gnu gcc-hppa-linux-gnu binutils-hppa-linux-gnu gcc-hppa64-linux-gnu binutils-hppa64-linux-gnu gcc-alpha-linux-gnu binutils-alpha-linux-gnu gcc-arm-linux-gnueabi binutils-arm-linux-gnueabi gcc-aarch64-linux-gnu binutils-aarch64-linux-gnu gcc-s390x-linux-gnu binutils-s390x-linux-gnu</code>
