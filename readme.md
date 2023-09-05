@@ -1,6 +1,6 @@
 # Dropper 3 (BCE) - The end of a five year long payload generation odyssey.
 
-![](https://github.com/im4x5yn74x/dropper3/tree/main/assets/dropper-3-odyssey.gif)
+![](assets/dropper-3-odyssey.gif)
 
 ## Prelude
 
